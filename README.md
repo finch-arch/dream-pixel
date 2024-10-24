@@ -43,6 +43,12 @@ Web Tour
 ![openAI](https://github.com/finch-arch/dream-pixel/assets/91012740/04ba04c3-f974-4f63-87cc-32f215bfd96b)
 
 
+
+https://github.com/user-attachments/assets/8b497028-baf0-400d-aca0-c62c235d8aa0
+
+
+
+
 ## Installation
 
 Clone the repository:
